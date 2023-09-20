@@ -1,0 +1,52 @@
+.red{
+    color:red; align-items: center;
+}
+#dec{
+    background-color: red; color: white; 
+}
+#background{
+    background-color: #071042; 
+}
+heading{
+    color: aliceblue; font-size: 64px;
+}
+h2{
+    color:wheat
+}
+.img1{
+ width:300px; 
+}
+.img2{
+ width:600px; 
+}
+.img3{ 
+ width:500px
+}
+.smoke{
+    color:whitesmoke; align-items: center
+}
+#oct{
+    background-color: whitesmoke; color: black; 
+}
+.sept{
+    color:gray
+}
+#gris{
+    background-color: gray; color: whitesmoke;
+    
+}
+.flor{
+    color: cornflowerblue
+}
+#ot{
+    background-color:cornflowerblue; color: lightblue 
+}
+.naranja{
+    color: orange
+}
+#desktop{
+    background-color: orange ; color: black;
+}
+table, th, td{
+    border:2px solid; color:white
+}

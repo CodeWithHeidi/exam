@@ -11,7 +11,7 @@ heading{
     color: aliceblue; font-size: 64px;
 }
 h2{
-    color:wheat;
+    color: wheat;
 }
 .source{
     font-size: 16px;
@@ -20,7 +20,7 @@ h2{
  width:300px; 
 }
 .img2{
- width:600px; 
+ width:500px; 
 }
 .img3{ 
  width:500px
@@ -53,13 +53,10 @@ h2{
 table, th, td{
     border:2px solid; color:white
 }
-table{
-    width: 100%;
-}
 .header{
     color:red;
     font-size: 40px;
-    font-family: fantasy;    
+    font-family: Fantasy;    
     text-align: center;
 }
 .header:hover{
@@ -71,22 +68,22 @@ table{
     margin-right: auto;
     width: 50%;
   }
-  .center2{
+.center2{
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
-  body{
+body{
     text-align: center;
   }
-  .footer{
+.footer{
     color:lightblue
   }
-  .tablecenter {
+.tablecenter {
     margin-left: auto;
     margin-right: auto;
   }
-  .tooltip-text{
+.tooltip-text{
     width: 250px;
     height: 50px;
     font-size: 150%;
@@ -98,12 +95,15 @@ table{
     position: absolute;
     opacity: 0%;
   }
-  .tooltip-img:hover .tooltip-text{
+.tooltip-img:hover .tooltip-text{
     opacity: 1;
   }
-  a{
+a{
     color: black;
   }
-  th{
+th{
     background-color: cornflowerblue;
+  }
+  .white{
+    color:white
   }
